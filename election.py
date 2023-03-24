@@ -15,7 +15,6 @@ def extract_info(file_path):
 
     # Find all occurrences of the regex in the input data
     name_matches = re.findall(name_regex, data)
-    print(name_matches)
     age_matches = re.findall(age_regex, data)
     gender_matches = re.findall(gender_regex, data)
 
@@ -25,7 +24,7 @@ def extract_info(file_path):
         result = {
             'Name': name_matches[i].strip(),
             'Age': age_matches[i].strip() if age_matches and len(age_matches) > i and age_matches[i] else None,
-            'Gender': gender_matches[i].strip().lower()
+            'Gender': gender_matches[i].strip().lower() if gender_matches and len(age_matches) > i and gender_matches[i] else None,
         }
         results.append(result)
 
