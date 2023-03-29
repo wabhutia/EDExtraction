@@ -1,12 +1,25 @@
 import re
 import sys
+import chardet
 from openpyxl import Workbook
 
 # REG EX - VS CODE = ^Name\s
+# Check multiple cases in Input txt -> 
+# From - Name : / Husband's Name: / Father's Name:
+# To   - Name: / Husband's Name : / Father's Name :
 
 def extract_info(file_path):
-    with open(file_path, 'r') as f:
+    
+    with open(file_path, 'rb') as f:
+        result = chardet.detect(f.read())
+    encoding = result['encoding']
+
+    # Open the input file with the detected encoding
+    with open(file_path, 'r', encoding=encoding) as f:
         data = f.read()
+        
+    #with open(file_path, 'r') as f:
+        #data = f.read()
 
     # Define regular expressions to extract Name, Age and Gender from input data
     name_regex = r'Name:\s*([^\n]+)'    
