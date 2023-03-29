@@ -1488,7 +1488,7 @@ House Number: 67
 Age : 35 Gender: MALE Photo is 
 Available
 220 CBS0123117 221 NMX0035527 222 NMX0035519
-Name TSHERING DIKI BHUTIA 
+Name: TSHERING DIKI BHUTIA 
 Father's Name : ONGDA BHUTIA 
 House Number: 67 
 Age : 33 Gender: FEMALE Photo is 
