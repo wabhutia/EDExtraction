@@ -916,3 +916,2000 @@ Age : 22 Gender: MALE
 NMX0111575
 Photo is 
 Availabl
+495 MRX0063479
+Name: GYALPO BHUTIA 
+Father's Name : SANOO BHUTIA 
+House Number:
+Age : 64 Gender: MALE Photo is
+Available
+496
+Name: KARMA TSHERING BHUTIA
+Father's Name : NAKCHUNG BHUTIA
+House Number:
+Age : 62 Gender: MALE
+NMX0064790
+Photo is
+Available
+497
+Name: TSHERING DIKI BHUTIA
+Husband's Name : GYALPO BHUTIA
+House Number:
+Age : 60 Gender: FEMALE
+NMX0059089
+Photo is
+Available
+498 MRX0114090 499 NMX0051185 500
+Name: SONAM TSHERING BHUTIA 
+Father's Name : GYALPO BHUTIA 
+House Number:
+Age : 37 Gender: MALE Photo is 
+Available
+Name: PASSANG LAMA BHUTIA 
+Husband's Name : PASSANG DORJEE 
+BHUTIA 
+House Number:
+Age 36 Gender: FEMALE
+Photo is 
+Available
+Name: KINGACHODEN BHUTIA 
+Father's Name : PEM WANGYAL 
+BHUTIA 
+House Number:
+Age: 28 Gender: FEMALE
+NMX0050849
+Photo is 
+Available
+501
+Name: TASHI RAPEYAL BHUTIA 
+Father's Name : RINCHEN BHUTIA 
+House Number:
+Age : 27 Gender: MALE
+NMX0051094
+Photo is 
+Available
+502 NMX0051219 503 NMX0066654
+Name: ANJELI BHUTIA
+Father's Name : NIMTSETEN BHUTIA
+House Number:
+Age : 27 Gender: FEMALE Photo is 
+Available
+Name: NORPU LADEN BHUTIA 
+Father's Name : CHULTIM BHUTIA 
+House Number:
+Age: 27 Gender: FEMALE Photo is 
+Available
+504 NMX0063685 505
+Name: PREM RAJ LIMBU 
+Father's Name : CHATUR SINGH LIMBU 
+House Number:
+Age : 34 Gender: MALE Photo is 
+Available
+Name: SURESH PRADHAN 
+Father's Name : BAL BAHADUR 
+PRADHAN 
+House Number:
+Age: 51 Gender: MALE
+NMX0046870
+Photo is 
+Available
+506 NMX0068437
+Name: KAMAL RAI 
+Father's Name : MAN RAJ RAI 
+House Number:
+Age: 56 Gender: MALE Photo is 
+Available
+507 NMX0051060 508 NMX0059204 509
+Name: BIKASH RAI 
+Father’s Name : BAL BDR RAI 
+House Number:
+Age : 34 Gender: MALE Photo is 
+Available
+Name: KUMAR SUBBA 
+Father's Name : MAN BDR SUBBA 
+House Number:
+Age : 68 Gender: MALE Photo is 
+Available
+Name: BUDDHA MAYA SUBBA 
+Father's Name : KUMAR SUBBA 
+House Number:
+Age: 34 Gender: FEMALE
+NMX0060996
+Photo is 
+Available
+Name: PASSANG LHAMU BHUTIA 
+Husband's Name : ANG TSH BHUTIA 
+House Number: N/A 
+Age: 54 Gender: FEMALE 
+Name: SHERAP GHYAMTSHO BHUTIA 
+Father's Name : ANG TSHERING 
+BHUTIA
+House Number: N/A 
+Age: 35 Gender: MALE
+Photo is 
+Available
+513 NMX0078071 514 NMX0008813 515 NMX0001495
+Name: PREM KUMARTAMANG 
+Father’s Name : INDRA BDR. TAMANG 
+House Number: N/A 
+Age : 35 Gender: MALE Photo is 
+Available
+Name: DEVENDRABALMIKI 
+Father's Name : BUOY KR BALMIKI 
+House Number: NA 
+Age : 37 Gender: MALE Photo is 
+Available
+Name: DIKI WONGMU BHUTIA 
+Father's Name : KHALUK BHUTIA 
+House Number: NA 
+Age : 39 Gender: FEMALE Photo is 
+Available
+516 NMX0004150 517 NMX0001651 518 NMX0004093
+Name: LADEN BHUTIA 
+Father's Name : NORPU CHHING 
+BHUTIA
+House Number: NA
+Age : 33 Gender: FEMALE
+Photo is 
+Available
+Name: DHARMANDRA CHAUDARY
+Father's Name : GANGA PD
+CHAUDARY
+House Number: NA
+Age : 47 Gender: MALE
+Photo is 
+Available
+Name: RAM BDR CHETTRI 
+Father's Name : MON BDR CHETTRI 
+House Number: NA 
+Age: 31 Gender: MALE Photo is 
+Available
+519 NMX0090001 520
+Name: KARMA BHUTIA 
+Father’s Name : THANGEY BHUTIA 
+House Number: NIL 
+Age: 48 Gender: MALE Photo is 
+Available
+Name: SONAM DOMA BHUTIA 
+Father's Name : KARMA TSHERING 
+BHUTIA
+House Number: NIL
+Age: 27 Gender: FEMALE
+NMX0084608
+Photo is 
+Available
+521 NMX0084590
+Name: PASSANG DOMA BHUTIA 
+Father's Name : KHITOOK BHUTIA 
+House Number: NIL 
+Age : 26 Gender: FEMALE Photo is 
+Available
+522 NMX0086058 523
+Name: TAMDING WANGDI BHUTIA 
+Father’s Name : SONAM ZANGPO 
+BHUTIA
+House Number: NIL 
+Age : 24 Gender: MALE
+Photo is 
+Available
+Name: RINCHEN NAMGYAL BHUTIA 
+Father’s Name : WANGYAL DADUL 
+BHUTIA
+House Number: NIL 
+Age: 23 Gender: MALE
+NMX0087114
+Photo is 
+Available
+524 NMX0092239
+Name: YEEDEN BHUTIA 
+Father's Name : PINTSO BHUTIA 
+House Number: NIL 
+Age : 22 Gender: FEMALE 
+525
+Name: TASHI CHODEN LEPCHA 
+Father's Name : KARMA TENZING 
+LEPCHA
+House Number: NIL
+Age: 22 Gender: FEMALE
+NMX0094714
+Photo is
+Available
+526
+Name: RENUKA PRADHAN 
+Father's Name : LATE KHARKA 
+BAHADUR PRADHAN 
+House Number: NIL 
+Age : 36 Gender: FEMALE
+NMX0061317
+Photo is
+Available
+527 NMX0107680
+Name: SUMITRARAI
+Father's Name : ASH DHAN RAI
+House Number: NIL
+Age : 72 Gender: FEMALE Photo is
+Available
+528 NMX0086074 529
+Name: BINOD RAI 
+Father's Name : KRISHNA RAI 
+House Number: NIL 
+Age : 41 Gender: MALE Photo is 
+Available
+Name: BASAN RAI 
+Father's Name : GARJAMAN RAI 
+House Number: NIL 
+Age : 25 Gender: MALE
+NMX0074005
+Photo is 
+Available
+530 NMX0084152
+Name: AMAR DEEP KR SHARMA 
+Father's Name : RAJ KUMAR SHARMA 
+House Number: NIL 
+Age : 35 Gender: MALE Photo is 
+Available
+531 NMX0083972 532 IRM0001990 533 NMX0083428
+Name: JITENDRASHARMA 
+Father's Name : RAJ KUMAR SHARMA 
+House Number: NIL 
+Age : 30 Gender: MALE Photo is 
+Available
+Name: BINU TAMANG 
+Husband's Name : SURESH TAMANG 
+House Number: NIL 
+Age: 41 Gender: FEMALE Photo is 
+Available
+Name: BINOD CHETTRI 
+Father's Name RAM BAHADUR 
+CHETTRI
+House Number: NILL 
+Age : 28 Gender: MALE
+Photo is 
+Available
+534
+Name: KRITAN SUBBA 
+Father's Name : DURGA SUBBA 
+House Number: NILL 
+Age : 23 Gender: MALE
+NMX0084087
+Photo is 
+Available
+535 NMX0059709 536 NMX0094078
+Name: MADAN TAMANG 
+Father's Name : TSHERING TAMANG 
+House Number: NILL 
+Age : 56 Gender: MALE Photo is 
+Available
+Name: PUJAKHAREL 
+Father's Name : SANU KHAREL 
+House Number: 1 
+Age : 22 Gender: FEMALE Photo is 
+Available
+537
+Name: KARMADOMABHUTIA 
+Father’s Name : LT.LAKPA BHUTIA 
+House Number: 02 
+Age : 31 Gender: FEMALE
+NMX0040287
+Photo is 
+Available
+538 NMX0040303 539 NMX0001404
+Name: SAN GAY BHUTIA 
+Father’s Name : LT.LAKPA BHUTIA 
+House Number: 02 
+Age: 29 Gender: MALE Photo is 
+Available
+Name: FUTIK BHUTIA 
+Husband's Name : JIGMEE BHUTIA 
+House Number: 5 
+Age : 50 Gender: FEMALE Photo is 
+Available
+540 CBS0054148 541 NMX0024000 542 MRX0114405
+Name: JIGMEE BHUTIA
+Father's Name : DORJEE TSHERING
+BHUTIA
+House Number: 5
+Age : 42 Gender: MALE
+Photo is 
+Available
+Name: DAWASANGPO BHUTIA 
+Father's Name : DORJEE TSHERING 
+BHUTIA
+House Number: 5 
+Age : 41 Gender: MALE
+Photo is 
+Available
+Name: THENDUP TSHERING BHUTIA 
+Father's Name : GYALPO BHUTIA 
+House Number: 5 
+Age : 41 Gender: MALE Photo is 
+Available
+543 BPV0090951 544 NMX0040436 545 NMX0063933
+Name: TSHERING KEEPA BHUTIA 
+Husband's Name : THENDUP TSH 
+BHUTIA
+House Number: 5
+Age : 38 Gender: FEMALE
+Photo is 
+Available
+Name: NUPU TSH BHUTIA 
+Father's Name : JIGMEE BHUTIA 
+House Number: 5 
+Age : 35 Gender: MALE Photo is 
+Available
+Name: TSHERING DORJEE BHUTIA 
+Father's Name : DORJEE TSHERING 
+BHUTIA
+House Number: 5
+Age : 27 Gender: MALE
+Photo is 
+Available
+546
+Name: SAKCHI SUBBA 
+Husband's Name : KUMAR SUBBA 
+House Number: 10 
+Age: 51 Gender: FEMALE
+NMX0079863
+Photo is 
+Available
+547 NMX0061002 548 NMX0083964
+Name: SANCHA MAYA SUBBA 
+Father’s Name : KUMAR SUBBA 
+House Number: 10 
+Age: 31 Gender: FEMALE Photo is 
+Available
+Name: YESHEY DOLKAR SUBBA 
+Father’s Name : KUMAR SUBBA 
+House Number: 10 
+Age : 23 Gender: FEMALE Photo is 
+Available
+549 CBS0051102 550 CBS0072645 551 CBS0096818
+Name: DILIP TAMANG
+Father’s Name : BAHADUR TAMANG
+House Number: 12
+Age: 58 Gender: MALE Photo is 
+Available
+Name: KUMAR TAMANG 
+Father's Name : BAHADUR TAMANG 
+House Number: 12 
+Age : 53 Gender: MALE Photo is 
+Available
+Name: PEMPA DOMA SHERPA 
+Father's Name : SANGAY SHERPA 
+House Number: W.V. 12 
+Age: 39 Gender: FEMALE Photo is 
+Available
+552 CBS0079624 553 NMX0004564 5541
+Name: TSHERING DOMA BHUTIA 
+SUBBA
+Husband's Name : BHIM MAN SUBBA
+House Number: 14
+Age : 68 Gender: FEMALE
+Photo is 
+Available
+Name: KHEM KUMARI SUBBA 
+Father's Name : BHIM MAN SUBBA 
+House Number: 14 
+Age: 33 Gender: FEMALE Photo is 
+Available
+Name: CHOKI BHUTIA 
+Husband's Name : NIM TENZING 
+BHUTIA
+House Number: 18
+Age : 62 Gender: FEMALE
+NMX0094474
+Photo is 
+555 MJZ0102640 556 NMX0024174 557 CBS0133769
+Name: JIGMEE WANGCHUK BHUTIA 
+Father's Name : NIM TENZING BHUTIA 
+House Number: 18
+Age : 35 Gender: MALE
+Name: WANGDI GYATSO BHUTIA 
+Father's Name : UGEN TSHERING 
+BHUTIA
+House Number: 20 V
+Age : 31 Gender: MALE
+Name: DOMA BHUTIA
+Husband's Name : DORJEE 
+WANGCHUK
+House Number: 21
+Age : 55 Gender: FEMALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+558 NMX0101006 559 CBS0053223 560 CBS0127399
+Name: PEM TSHERING BHUTIA
+Father's Name : NEDUP BHUTIA
+House Number: 21
+Age : 55 Gender: MALE
+Name: DIKI BHUTIA
+Husband’s Name : PEM TSHERING 
+BHUTIA
+House Number: 21
+Age 54 Gender: FEMALE
+Name: LHATSHERING BHUTIA
+Father's Name : NEDUP BHUTIA
+House Number: 21
+Photo is Age : 48 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+I 551 CBS0128611 562 NMX0061200 563 NMX0000653
+Name: YANGKIT DOMA BHUTIA 
+Father's Name : PHIGU BHUTIA
+House Number: 21
+Age : 34 Gender: FEMALE
+Name: NIMA THENDUP BHUTIA
+Father’s Name : DORJEE WANCHUK 
+BHUTIA
+House Number: 21
+Age: 32 Gender: MALE
+Name: PASSANG NAM GYAL BHUTIA 
+Father's Name : DORJEE W BHUTIA 
+House Number: 21
+Photo is Age : 32 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+564 NMX0050864 565 CBS0128595 566 CBS0054015
+Name: TSEWANG NEDUP BHUTIA 
+Father's Name : PEM TSHERING
+BHUTIA
+House Number: 21
+Age : 29 Gender: MALE
+Name: PHUP DOMA DENZONGPA 
+Father's Name : NEDUP BHUTIA
+House Number: 21
+Age: 57 Gender: FEMALE
+Name: TASHI WANGDI PHONPO 
+Father's Name : NEDUP BHUTIA
+House Number: 21
+Photo is Age : 67 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+567 NMX0082347 568 CBS0096933 569 CBS0054114
+Name: ALKA SUBBA
+Husband's Name : NIMA THENDUP 
+BHUTIA
+House Number: 21
+Age : 35 Gender: FEMALE
+Name: TASHI BHUTIA
+Father’s Name : LEDA BHUTIA
+House Number: 22
+Age 57 Gender: MALE
+Name: CHIDEN BHUTIA
+Husband's Name : TASHI BHUTIA
+House Number: 22
+Photo is Age : 47 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+570 CBS0097048 571 CBS0125203 572 CBS0098384
+Name: BAL BDR. GURUNG
+Father's Name : BUDHIMAN GURUNG 
+House Number: 23
+Age : 45 Gender: MALE
+Name: BHAIMATI GURUNG
+Husband's Name : BIRKHA MAN 
+GURUNG
+House Number: 24
+Age : 77 Gender: FEMALE
+Name: DAMBER GURUNG
+Father's Name : BIRKHA MAN GURUNG 
+House Number: 24
+Photo is Age: 45 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+573 CBS0098343 r—574 CBS0098335 575 CBS0094821
+Name: TIL MAYA GURUNG
+Father's Name : BIRKHA MAN GURUNG 
+House Number: 24
+Age : 45 Gender: FEMALE
+Name: REWATI GURUNG
+Father’s Name : BIRKHA MAN GURUNG 
+House Number: 24
+Age : 39 Gender: FEMALE
+Name: NAMGAYLEPCHA
+Father's Name : LHENDUP LEPCHA 
+House Number: 26
+Photo is Age: 35 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+576 NMX0035543 577 NMX0054130 578 NMX0110718
+Name: DAWATSHERING
+Father's Name : TOPGAY BHUTIA
+House Number: 30
+Age : 34 Gender: MALE
+Name: SAWANG TSHERING BHUTIA 
+Father’s Name : LT.JAYANGLA BHUTIA 
+House Number: 33
+Age : 57 Gender: MALE
+Name: SONAM TASHI BHUTIA
+Other's Name : HISSAY GYATSO
+BHUTIA
+House Number: 34
+Age : 19 Gender: FEMALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+579 CBS0096610 580 CBS0096321 581 CBS0096560
+Name: ZOMKI BHUTIA
+Husband’s Name : TOPGAY BHUTIA 
+House Number: 36
+Age: 76 Gender: FEMALE
+Name: TOPGAY BHUTIA
+Father's Name : GYATSO BHUTIA
+House Number 36
+Age : 73 Gender: MALE
+Name: RINZING DORJEE BHUTIA 
+Father's Name : TOPGAY BHUTIA
+House Number: 36
+Photo is Age: 46 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+582 CBS0054213 583 CBS0073023 584 CBS0122671
+Name: SONAM ONGMU BHUTIA 
+Husband's Name : RINZING BHUTIA 
+House Number: 36
+Age : 45 Gender: FEMALE
+Name: DIKI DOMA BHUTIA
+Father's Name : TOPGAY BHUTIA
+House Number: 36
+Age: 40 Gender: FEMALE
+Name: TEMPO TSHERING BHUTIA 
+Father's Name : TOPGAY BHUTIA
+House Number: 36
+Photo is Age : 34 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+585 NMX0045781
+Name: UJALATAMANG
+Husband's Name : TEMPO TSHERING
+BHUTIA
+House Number: 36
+Age: 31 Gender: FEMALE
+Photo is
+Available
+586 CBS0084061
+Name: KARMA. SONAM BHUTIA
+Father's Name : LT.AKHAY BHUTIA
+House Number: 37
+Age : 50 Gender: MALE Photo is
+Available
+587 CBS0122853
+Name: ROJI SHELAL
+Father's Name : GOPAL SILWAL
+House Number: 37
+Age : 33 Gender: FEMALE Photo is
+Available
+588 CBS0128447 589 CBS0097881 590 CBS0123653
+Name: DORJEE BHUTIA
+Father's Name : CHEWANG PALZOR
+BHUTIA
+House Number: 39 
+Age : 57 Gender: MALE
+Photo is 
+Available
+Name: JIGMELABHUTIA 
+Father's Name : DORJEE TASHI 
+BHUTIA
+House Number: 39 
+Age : 35 Gender: MALE
+Photo is 
+Available
+Name: PEMAYANGZOM BHUTIA 
+Mother's Name : SONAM PADEN 
+BHUTIA
+House Number: 39
+Age : 35 Gender: FEMALE
+Photo is 
+Available
+591 NMX0029827 592 CBS0071548 593 CBS0084996
+Name: TASHI CHODEN BHUTIA 
+Father's Name : DORJEE BHUTI 
+House Number: 39 
+Age : 32 Gender: FEMALE Photo is 
+Available
+Name: DIKI DOMADUKPA 
+Father's Name : CHAMPA DUKPA 
+House Number: 39 
+Age : 66 Gender: FEMALE Photo is 
+Available
+Name: HIRONYA DEVI GIRI 
+Husband's Name : ATOP TSH. BHUTIA 
+House Number: 39 
+Age: 61 Gender: FEMALE Photo is 
+Available
+594 CBS0104349 595 CBS0128439 596 CBS0084988
+Name: RINZING ONGMU GURUNG 
+Husband's Name : DHAN KUMAR 
+GURUNG
+House Number: 39
+Age : 50 Gender: FEMALE
+Photo is 
+Available
+Name: KAUSILA RAI
+Husband’s Name : DORJEE BHUTIA
+House Number: 39
+Age : 46 Gender: FEMALE Photo is 
+Available
+Name: ATOP TSHERING 
+Father's Name : DAWA LAMA 
+House Number: 39 
+Age : 65 Gender: MALE Photo is 
+Available
+597 CBS0050799 598 NMX0004101 599 CBS0053686
+Name: KAMALAGURUNG
+Father’s Name : DHAN BDR. GURUNG
+House Number: 41
+Age : 52 Gender: FEMALE Photo is 
+Available
+Name: SANGAY DOMA BHUTIA 
+Husband's Name : LHAKIT BHUTIA 
+House Number: 43 
+Age : 30 Gender: FEMALE Photo is 
+Available
+Name: TSHERING WANGDI BHUTIA 
+Father's Name : PEM TSHERING 
+BHUTIA
+House Number: 49 
+Age : 48 Gender: MALE
+Photo is 
+Available
+600 CBS0131821 601 CBS0125021 602 CBS0125039
+Name: SUNITA BHUTIA
+Husband’s Name: TSHERING
+WONGDI BHUTIA
+House Number: 49
+Age: 37 Gender: FEMALE
+Photo is 
+Available
+Name: CHUNG LHAMU BHUTIA 
+Father's Name : PEM TSHERING 
+BHUTIA
+House Number: 49
+Age: 37 Gender: FEMALE
+Photo is 
+Available
+Name: CHUNKU BHUTIA 
+Father's Name : PEM TSHERING 
+BHUTIA
+House Number: 49
+Age : 36 Gender: FEMALE
+Photo is 
+Available
+603 NMX0004523 604 NMX0040261 605 NMX0075366
+Name: SONAM TOPGAY BHUTIA 
+Father’s Name : PEM TSHERING 
+BHUTIA
+House Number: 49 
+Age: 34 Gender: MALE
+Photo is 
+Available
+Name: SONAM ONGMU BHUTIA 
+Father's Name : LT.PEM TSHERING 
+BHUTIA
+House Number: 49
+Age : 33 Gender: FEMALE
+Photo is 
+Available
+Name: GIDEN NORBU BHUTIA 
+Father's Name : TSHERING WONGDI 
+BHUTIA
+House Number 49 
+Age : 24 Gender: MALE
+Photo is 
+Available
+606 NMX0085902 607
+Name: REKHACHETTRI 
+Husband's Name : TSHERING WANGDI 
+BHUTIA
+House Number: 49 
+Age: 43 Gender: FEMALE
+Photo is 
+Available
+Name: BHAICHUNG BHUTIA 
+Father's Name : NARI BHUTIA 
+House Number: 51 
+Age : 48 Gender: MALE
+CBS0087247
+Photo is 
+Available
+608 NMX0024133
+Name: SANGAY YUSER BHUTIA 
+Father's Name : LT. TSHERING 
+TOPGAY BHUTIA 
+House Number: 51 
+Age : 31 Gender: MALE
+Photo is 
+Available
+609 CBS0133892 610
+Name: KARMA DOMA 
+Father’s Name : JIGME LAMA 
+House Number: 51 
+Age: 53 Gender: FEMALE Photo is 
+Available
+Name: PUSHPASHERPA 
+Husband's Name : BHAICHUNG 
+BHUTIA
+House Number: 51
+Age: 42 Gender: FEMALE
+NMX0004606
+Photo is 
+Available
+611 CBS0122861
+Name: ECHUNG CHODEN BHUTIA 
+Father's Name : PEMPA TSH BHUTIA 
+House Number: 52 
+Age : 62 Gender: FEMALE Photo is 
+Available
+612 CBS0131912 613 CBS0136721 6141 CBS0127373
+Name: TSHERING ONGMU BHUTIA 
+Father's Name : PEMPA TSHERING 
+BHUTIA
+House Number: 52
+Age : 40 Gender: FEMALE
+Photo is 
+Available
+Name: TSHERING DOMA BHUTIA 
+Husband's Name : KARMA NINDA 
+House Number: 53 
+Age: 84 Gender: FEMALE Photo is 
+Available
+Name: KHITOOK BHUTIA 
+Father's Name : K.T LAMA 
+House Number: 53 
+Age : 62 Gender: MALE Photo is 
+Availabl
+615 CBS0053850 616 NMX0003368 617 NMX0003376
+Name: TSHERING DOMA BHUTIA 
+Father's Name : KHITOOK BHUTIA 
+House Number: 53
+Age : 36 Gender: FEMALE
+Name: KARMA DOMA BHUTIA
+Father's Name : KHITOOK BHUTIA 
+House Number: 53
+Age 35 Gender: FEMALE
+Name: DORJEE ONGMOO BHUTIA 
+Father's Name : KHITOOK BHUTIA 
+House Number: 53
+Photo is Age: 34 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+618 NMX0003384 619 CBS0127365 620 CBS0137430
+Name: KESANG TOBZER BHUTIA 
+Father's Name : KHITOOK BHUTIA 
+House Number: 53
+Age : 31 Gender: MALE
+Name: PEMPO DEM
+Husband’s Name : KHITOOK BHUTIA 
+House Number: 53
+Age : 59 Gender: FEMALE
+Name: KARMA TENZING LEPCHA 
+Father's Name : KARMA NINDA
+LEPCHA
+House Number: 53
+Age : 41 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+i 621 NMX0091033 622 CBS0136762 623 CBS0098368
+Name: KUNZANG HAPHEL LEPCHA 
+Father's Name : KARMA SHERAB 
+LEPCHA
+House Number 53
+Age : 23 Gender: MALE
+Name: KARMANENDA
+Father’s Name : KUNZANG LEPCHA 
+House Number: 53
+Age : 85 Gender: MALE
+Name: KARMA SHERAP LEPCHA 
+Father's Name : KARMA NINDA
+LEPCHA
+House Number: 53
+Age : 45 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+624 CBS0097816 625 CBS0085902 626 CBS0085290
+Name: MONIKATAMANG
+Father's Name : DEO KUMAR TAMANG 
+House Number: 53
+Age : 39 Gender: FEMALE
+Name: SONAM CHODEN BHUTIA 
+Father's Name : ATOP TSHERING 
+BHUTIA
+House Number: 56
+Age : 36 Gender: FEMALE
+Name: CHUNG CHUP BHUTIA
+Father's Name : LT. DORJEE BHUTIA 
+House Number: 57
+Photo is Age : 67 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+627 CBS0079343 628 CBS0124495 629 CBS0054296
+Name: DAWATSERING BHUTIA 
+Father’s Name : TENZING BHUTIA
+House Number: 57
+Age: 58 Gender: MALE
+Name: MINGMA DOMA BHUTIA
+Father's Name : TENZING BHUTIA
+House Number: 57
+Age 52 Gender: FEMALE
+Name: LAKPA DORJEE BHUTIA 
+Father's Name : TENZING BHUTIA
+House Number: 57
+Photo is Age : 42 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+630 CBS0124842 631 NMX0003400 632 CBS0128645
+Name: PASSANG DORJEE BHUTIA 
+Father's Name : DAWA TSHERING 
+BHUTIA
+House Number: 57
+Age : 39 Gender: MALE
+Name: PASSANG BHUTIA
+Father's Name : TENZING BHUTIA
+House Number: 57
+Age: 35 Gender: FEMALE
+Name: SONAM DIKI BHUTIA
+Father's Name : DAWA TSHERING 
+BHUTIA
+House Number: 57
+Age : 35 Gender: FEMALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+633 CBS0078220 I NMX0087049 635 NMX0001560
+Name: NIMABHUTIA
+Father's Name : TENZING BHUTIA
+House Number: 57
+Age : 34 Gender: FEMALE
+Name: THUPDEN LHAMU BHUTIA 
+Father's Name : LAKPA BHUTIA
+House Number: 57
+Age : 33 Gender: FEMALE
+Name: SONAM BHUTIA
+Father's Name : DAWA TSHERING 
+BHUTIA
+House Number: 57
+Age: 30 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+636 NMX0040345 637 NMX0084509 638 NMX0084491
+Name: YANKEY BHUTIA
+Father's Name : DAWA BHUTIA
+House Number: 57
+Age : 30 Gender: FEMALE
+Name: TASHI DORJEE BHUTIA
+Mother’s Name : MINGMA DOMA
+BHUTIA
+House Number: 57
+Age : 27 Gender: MALE
+Name: SHERAP BHUTIA
+Mother's Name : MINGMA DOMA
+BHUTIA
+House Number: 57
+Age : 24 Gender: FEMALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+639 NMX0024109 640 LXW0101014 641 NMX0003418
+Name: RADHIKAGURUNG
+Husband’s Name : DAWA TSHERING 
+BHUTIA
+House Number: 57
+Age: 44 Gender: FEMALE
+Name: PHUTIT LHAMU LEPCHA
+Father's Name : PHUCHUNG LEPCHA 
+House Number 57
+Age: 48 Gender: FEMALE
+Name: PREMIKAMANGER
+Husband's Name : PINTSO TSH
+BHUTIA
+House Number: 57
+Age: 38 Gender: FEMALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+642 CBS0073700 643 NMX0004580 644 CBS0053264
+Name: KUNZANG PEMA
+Husband's Name : LT. JORDEN
+BHUTIA
+House Number: 57
+Age : 69 Gender: FEMALE
+Name: CHUNKU RAI/BHUTIA
+Husband's Name : PASSANG DORJEE 
+BHUTIA
+House Number: 57
+Age: 29 Gender: FEMALE
+Name: PREM KR. GURUNG
+Father's Name : KAHRKA BDR.
+GURUNG
+House Number: 59
+Age : 52 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+645 CBS0053298 646 CBS0139238 647 NMX0029769
+Name: PADAM BDR. GURUNG
+Father's Name : BIRKHA BDR.
+GURUNG
+House Number 59
+Age : 42 Gender: MALE
+Name: KRISHNA MAYA GURUNG 
+Father's Name : SHYAM KR GURUNG 
+House Number: 59
+Age: 41 Gender: FEMALE
+Name: GANGA MAYA GURUNG
+Father's Name : SHYAM KR GURUNG 
+House Number: 59
+Photo is Age: 35 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+648 NMX0035667 649 NMX0035600 650 NMX0029819
+Name: SHIVA GURUNG
+Father's Name : MON BDR GURUNG 
+House Number: 59
+Age : 35 Gender: MALE
+Name: KIRAN GURUNG
+Father's Name : SHYAM KUMAR 
+GURUNG
+House Number: 59
+Age 33 Gender: MALE
+Name: SHEELAGURUNG
+Father's Name : MON BDR GURUNG 
+House Number: 59
+Photo is Age : 31 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+I 551 NMX0040501 652 NMX0101014 653 CBS0095414
+Name: SONAM CHOPPEL LEPCHA 
+Father's Name : SONAM PINTSO 
+LEPCHA
+House Number 59
+Age : 29 Gender: MALE
+Name: TSHERING DOMA BHUTIA 
+Husband's Name : LAKPA SUMBA
+House Number: 60
+Age : 67 Gender: FEMALE
+Name: LAKPA SUMBA SHERPA
+Father's Name : DANIMA SHERPA
+House Number: 60
+Photo is Age : 64 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+654 CBS0123901 655 CBS0124578 656 CBS0128629
+Name: KESANG ONGMU SHERPA 
+Father's Name : LAKPA SUMBA 
+SHERPA
+House Number: 60
+Age : 38 Gender: FEMALE
+Name: TASHI PALZOR SHERPA 
+Father's Name : LAKPA SUMBA 
+SHERPA
+House Number: 60
+Age: 36 Gender: MALE
+Name: SONAM ONGMU SHERPA 
+Father's Name : LAKPA SUMBA 
+SHERPA
+House Number: 60
+Age: 34 Gender: FEMALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+657 NMX0035683 658 CBS0071340 659 CBS0097170
+Name: DAWATSETEN SHERPA 
+Father’s Name : LAKPA SUMBA
+SHERPA
+House Number: 60
+Age : 30 Gender: FEMALE
+Name: WANG CHINDI BHUTIA
+Father’s Name : CHEDUP BHUTIA
+House Number: 61
+Age 76 Gender: MALE
+Name: PHIGU BHUTIA
+Father's Name : CHIDUP BHUTIA
+House Number: 61
+Photo is Age : 63 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+660 NMX0101022 661 BPV0071969 662 NMX0024059
+Name: LAKDEN BHUTIA
+Husband's Name : PHIGU BHUTIA
+House Number: 61
+Age : 54 Gender: FEMALE
+Name: CHULTIM BHUTIA
+Father's Name : PHUCHUNG BHUTIA 
+House Number: 61
+Age : 53 Gender: MALE
+Name: KIDEN DOMA BHUTIA
+Father's Name : PHIGU BHUTIA
+House Number: 61
+Photo is Age: 31 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+663 CBS0127084 664 CBS0127076 665 CBS0128678
+Name: TASHITSHERING BHUTIA 
+Father's Name : CHEDUP BHUTIA
+House Number: 62
+Age : 63 Gender: MALE
+Name: GAKEE BHUTIA
+Husband's Name : TASHI BHUTIA
+House Number: 62
+Age : 56 Gender: FEMALE
+Name: TENZING WONGCHUK 
+DENZONGPA
+Father's Name : TASHI TSHERING 
+DENZONGPA
+House Number: 62
+Age : 36 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+666 CBS0128686 667 CBS0096776 668 CBS0096768
+Name: SONAM PALMU DENZONGPA 
+Father's Name : TASHI TSHERING 
+DENZONGPA
+House Number: 62
+Age : 30 Gender: FEMALE
+Name: DOMA CHOPEL BHUTIA 
+Husband's Name : PINCHOK DORJEE 
+BHUTIA
+House Number: 63
+Age : 53 Gender: FEMALE
+Name: SHE RAP LHAMU BHUTIA 
+Father's Name : NAMGYAL BHUTIA 
+House Number: 63
+Photo is Age: 73 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+669 CBS0078303 670 CBS0125286 671 NMX0101048
+Name: PEMABHUTIA
+Father’s Name : LHENDUP BHUTIA 
+House Number: 63
+Age : 50 Gender: MALE
+Name: KUNCHOK DOMA BHUTIA 
+Fathher's Name : PHETOOKTSH
+BHUTIA
+House Number: 63
+Age: 48 Gender: FEMALE
+Name: GIDEN GYACHO BHUTIA
+Fathher's Name : PHETOOKTSH.
+BHUTIA
+House Number: 63
+Age: 48 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+672 CBS0137596 673 CBS0095984 674 CBS0051698
+Name: TSHERING LHAMU BHUTIA 
+Husband's Name : CHUNG CHUNG 
+BHUTIA
+House Number: 63
+Age: 47 Gender: FEMALE
+Name: NORZONG BHUTIA
+Father's Name : NAMGAY BHUTIA
+House Number: 63
+Age: 45 Gender: MALE
+Name: PHURBA DADUL BHUTIA 
+Father's Name : TOPGAY BHUTIA
+House Number: 63
+Photo is Age : 37 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+675 NMX0000513
+Name: TASHI PALMU
+NAM G YAL/B H UTIA
+Father's Name : NAMGAY BHUTIA
+House Number: 63
+Age: 36 Gender: FEMALE
+Photo is
+Available
+676 CBS0127266
+Name: KAZAI BHUTIA
+Husband's Name : KARMA LOBSANG
+BHUTIA
+House Number: 63 A
+Age : 48 Gender: FEMALE
+Photo is
+Available
+677 NMX0029777
+Name: KESSANG DOMA BHUTIA
+Father's Name KARMA LOBSANG
+BHUTIA
+House Number: 63(A)
+Age : 30 Gender: FEMALE
+Photo is
+Available
+678 NMX0032631 679 CBS0133686 680 CBS0133694
+Name: NAWANG TSHERING BHUTIA 
+Father's Name : KARMA LOBSANG 
+BHUTIA
+House Number: 63(A)
+Age : 29 Gender: MALE
+Photo is 
+Available
+Name: NIMA DOMA BHUTIA 
+Father's Name : PEMA HISSAY BHUTIA 
+House Number: 69 
+Age : 33 Gender: FEMALE Photo is 
+Available
+Name: NIM LHAMU BHUTIA
+Father's Name : PEMA HISSAY BHUTIA
+House Number: 69
+Age: 32 Gender: FEMALE Photo is 
+Available
+681 CBS0097931 682
+Name: CHUNG CHUNG LEPCHA 
+Husband's Name : PEMA HISSEY 
+BHUTIA
+House Number: 69
+Age: 53 Gender: FEMALE
+Photo is 
+Available
+Name: PHIGU TSHERING BHUTIA 
+Husband's Name : TASHI TSHERING 
+BHUTIA
+House Number: 70
+Age : 49 Gender: FEMALE
+LXB0105866
+Photo is 
+Available
+683 CBS0122465
+Name: RATNA PRADHAN 
+Father's Name : TILAK PRADHAN 
+House Number: 7(2)
+Age : 32 Gender: FEMALE Photo is 
+Available
+684 CBS0127696 685 NMX0084616 686 NMX0094706
+Name: TSHERING DOMA BHUTIA 
+Father's Name : P T BHUTIA 
+House Number: 72 
+Age : 48 Gender: FEMALE Photo is 
+Available
+Name: YESHMIN BHUTIA 
+Husband’s Name : RINZING ONGDA 
+BHUTIA
+House Number: 72
+Age : 38 Gender: FEMALE
+Photo is 
+Available
+Name: SONAM TOPGYAL BHUTIA 
+Father's Name : SONAM PENCHHO 
+BHUTIA
+House Number: 72 
+Age : 25 Gender: MALE
+Photo is 
+Available
+687 CBS0072850 688 CBS0072843 689 CBS0083154
+Name: SONAM ONGMU DENZONGPA 
+Husband's Name : SONAM PINTSO 
+BHUTIA
+House Number: 72
+Age : 59 Gender: FEMALE
+Photo is 
+Available
+Name: TSHERING ONGMU 
+DENZONGPA
+Father’s Name : SONAM PINTSO 
+BHUTIA
+House Number: 72
+Age : 40 Gender: FEMALE
+Photo is 
+Available
+Name: KARMADICHEN 
+Father's Name : SHYAM BHUTIA 
+House Number: 72 
+Age : 52 Gender: FEMALE Photo is 
+Available
+690 CBS0128082 691 CBS0053124 692 CBS0072868
+Name: KARMA PINTSO DOMA 
+Father's Name : PHAKCHING BHUTIA 
+House Number: 72 
+Age : 61 Gender: FEMALE Photo is 
+Available
+Name: TSHERING YANGZOM 
+Father's Name : PAKCHING BHUTIA 
+House Number: 72 
+Age : 47 Gender: FEMALE Photo is 
+Available
+Name: PREM KUMAR RAI 
+Father's Name : JAGAT BDR. RAI 
+House Number: 7/3 
+Age : 43 Gender: MALE Photo is 
+Available
+693 NMX0066662 694 CBS0127753 695 CBS0127761
+Name: NEERAJ CHETTRI 
+Father’s Name : LT. DEEPAK CHETTRI 
+House Number: P75(A)
+Age : 28 Gender: MALE Photo is 
+Available
+Name: SONAM LEGPAL BHUTIA 
+Father's Name : SHERAP KHENTSE 
+BHUTIA
+House Number: 76 
+Age : 44 Gender: MALE
+Photo is 
+Available
+Name: CHOPEL DORJEE BHUTIA 
+Father's Name : SHERAP KHENTSE 
+BHUTIA
+House Number: 76 
+Age : 43 Gender: MALE
+Photo is 
+Available
+696 CBS0095307 697 NMX0004549 698 NMX0001545
+Name: PEMA LADEN
+Father's Name : SHERAP KHENTSE
+House Number: 76
+Age : 47 Gender: FEMALE Photo is 
+Available
+Name: PEMDAY LEPCHA 
+Father’s Name : WANGDI LEPCHA 
+House Number: 76 
+Age : 39 Gender: FEMALE Photo is 
+Available
+Name: SONAM DOMA LEPCHA 
+Husband's Name : SONAM LEGPAL 
+BHUTIA
+House Number: 76
+Age: 37 Gender: FEMALE
+Photo is 
+Available
+699 CBS0097089 700 CBS0128728 701 CBS0075358
+Name: MINGMALHAMU BHUTIA 
+Husband’s Name : SHERAP KHENTSE 
+BHUTIA
+House Number: 76
+Age: 73 Gender: FEMALE
+Photo is 
+Available
+Name: PREETI MOKTAN 
+Father’s Name : SHYAM MOKTAN 
+House Number: 78 
+Age: 34 Gender: FEMALE Photo is 
+Available
+Name: SHERAP KHENTSE BHUTIA 
+Father's Name : LODEN LAMA BHUTIA 
+House Number: 79 
+Age : 75 Gender: MALE Photo is 
+Available
+702 CBS0071464 703 CBS0051839 704 | CBS0051011
+Name: TASHI BHUTIA 
+Father's Name : SONAM TASHI 
+House Number: 79 
+Age : 46 Gender: MALE Photo is 
+Available
+Name: PALDEN DOMA BHUTIA 
+Father's Name : SONAM TASHI 
+House Number: 79 
+Age: 44 Gender: FEMALE Photo is 
+Available
+Name: KARMA THINLAY BHUTIA 
+Father’s Name : SONAM TASHI BHUTIA 
+House Number: 79 
+Age : 42 Gender: MALE Photo is 
+Available
+705 CBS0051847 706 CBS0071449 707 CBS0095927
+Name: CHUMKI BHUTIA
+Husband's Name : TSHERING
+DORJEE BHUTIA
+House Number 79
+Age: 41 Gender: FEMALE
+Name: TSHERING DORJEE
+Father's Name : SONAM TASHI
+House Number: 79
+Age : 47 Gender: MALE
+Name: PINTSOZANGPO BHUTIA 
+Father's Name : LODEN LAMA BHUTIA 
+House Number: 79
+Photo is Age : 65 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+708 CBS0082164 709 CBS0053934 710 NMX0098129
+Name: TSHERING DOMA BHUTIA 
+Father's Name : PEMA WANGYAL 
+BHUTIA
+House Number: 89
+Age : 42 Gender: FEMALE
+Name: MAYARAI
+Husband’s Name : DHAN BDR. RAI 
+House Number: 93
+Age : 62 Gender: FEMALE
+Name: REBIKATUMBAPO
+Father's Name : KARNA BAHADUR 
+TUMBAPO
+House Number: 93
+Age: 22 Gender: FEMALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+1---------- ~ CBS0076117 712 CBS0128637 713 NMX0045906
+Name: BAL KUMAR SUBBA
+Father's Name : BHIM MAN SUBBA 
+House Number: 96
+Age : 37 Gender: MALE
+Name: SANDHYASUBBA
+Husband's Name : BAL KUMAR SUBBA 
+House Number: 96
+Age : 35 Gender: FEMALE
+Name: SANCHA MATI SUBBA
+Father's Name : LT. BHIM MAN SUBBA 
+House Number: 96
+Photo is Age: 28 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+714 CBS0078964 715 CBS0053538 716 NMX0083469
+Name: MAYARAI
+Husband's Name : SANTA. KUMAR RAI 
+House Number: 97
+Age : 38 Gender: FEMALE
+Name: SANTA KUMAR RAI
+Father's Name : BAL BDR RAI
+House Number: 97
+Age: 35 Gender: MALE
+Name: MERRY RAI
+Father's Name : SANTA KUMAR RAI 
+House Number: 97
+Photo is Age : 23 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+717 CBS0052316 718 CBS0136044 719 NMX0035618
+Name: KHITOOK BHUTIA
+Father’s Name : SONAM PALJOR 
+BHUTIA
+House Number: 99
+Age : 56 Gender: MALE
+Name: TSHERING KIPA BHUTIA
+Father's Name : CHUNJEE BHUTIA 
+House Number: 99
+Age 54 Gender: FEMALE
+Name: TOPGAY TSHERING BHUTIA 
+Father's Name : TASHI TSHERING 
+BHUTIA
+House Number: 99
+Age: 32 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+720 NMX0050906 721 NMX0066605 722 NMX0066647
+Name: LHAKI DOMA BHUTIA
+Father's Name : TSHERING DUBO 
+BHUTIA
+House Number: 99
+Age : 27 Gender: FEMALE
+Name: SAMTEN BHUTIA
+Father's Name : TSHERING DORJEE 
+BHUTIA
+House Number: 11(1)
+Age: 27 Gender: MALE
+Name: NORBU ZANGPO BHUTIA 
+Father's Name : TSHERING DORJEE 
+BHUTIA
+House Number: 11(1)
+Age : 26 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+723 CBS0095935 r—724 NMX0004663 725 CBS0131573
+Name: SONAM DOMALEPCHA 
+Husband’s Name : SHERAP LEPCHA 
+House Number: 118
+Age : 45 Gender: FEMALE
+Name: TASHI NORBU SHARMA
+Father's Name : KAILASH SHARMA 
+House Number: 118
+Age : 48 Gender: MALE
+Name: NAKSUK TSHERING BHUTIA 
+Father's Name : ASHOK TSHERING 
+House Number: 124
+Photo is Age: 79 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+726 CBS0131623 727 CBS0131664 728 CBS0079186
+Name: TSHERING EDEN BHUTIA 
+Father's Name : SHERAP LAMA
+House Number: 124
+Age : 58 Gender: FEMALE
+Name: TSHERING PEMA BHUTIA 
+Father’s Name : NAKSUK TSHERING 
+BHUTIA
+House Number: 124
+Age: 54 Gender: FEMALE
+Name: NIM CHUNG BHUTIA
+Father's Name : SHERAP LAMA
+House Number: 124
+Photo is Age: 50 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+729 CBS0131615 730 CBS0131532 731 CBS0124313
+Name: SHERAP ONGMU BHUTIA 
+Father’s Name : NAKSUK TSHERING 
+BHUTIA
+House Number: 124
+Age: 48 Gender: FEMALE
+Name: SONAM DORJEE BHUTIA 
+Father's Name : NAKSUK TSHERING 
+BHUTIA
+House Number: 124
+Age : 48 Gender: MALE
+Name: KESANG CHOPAL BHUTIA 
+Father's Name : P. TSH BHUTIA
+House Number: 126
+Photo is Age : 68 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+732 CBS0053645 733 CBS0087379 734 IBN2151736
+Name: SONA WANGMOO BHUTIA 
+Husband's Name : TASHI GYANCHEN 
+BHUTIA
+House Number: 126
+Age: 61 Gender: FEMALE
+Name: TENZING DORJEE BHUTIA 
+Father's Name : KESSANG CHOPEL 
+BHUTIA
+House Number: 126
+Age: 37 Gender: MALE
+Name: Subash Tamang
+Father's Name : Pemba Tamang
+House Number: S-X152
+Photo is Age : 42 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+735 CBS0053843 736 NMX0024091 737 NMX0091223
+Name: PANCHEN DORJEE SHERPA 
+Father's Name : DAWA SHERPA
+House Number: 160
+Age: 34 Gender: MALE
+Name: PALZOR DORJEE SHERPA 
+Father's Name : LT. DAWA SHERPA 
+House Number: 160
+Age : 31 Gender: MALE
+Name: CHANDRAKALARAI
+Father’s Name : KIRTI BAHADUR RAI 
+House Number: 16/5
+Photo is Age: 39 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+738 CBS0051540 739 CBS0053363 740 CBS0085845
+Name: ANU PRAVA MANDAL
+Father's Name : SOHAN MANDAL
+House Number: 221
+Age: 35 Gender: FEMALE
+Name: BIJAYMONDAL
+Father's Name : LT. SOHAN MONDAL 
+House Number: 221
+Age : 42 Gender: MALE
+Name: NIM TSETEN BHUTIA
+Father’s Name : DUBO TSHERING 
+BHUTIA
+House Number: 233/II
+Age : 39 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+741 FHY0111146 742 CBS0125633 743 NMX0040493
+Name: INDRAMAYARAI
+Mother’s Name : CHINKI RAI
+House Number: 235
+Age : 31 Gender: FEMALE
+Name: JUMKIT LEPCHA
+Husband's Name : TSHERING BHUTIA 
+House Number: 24/1
+Age : 33 Gender: FEMALE
+Name: RASHMIKASUBBA
+Father's Name : DHAN SUBBA
+House Number: 301
+Photo is Age: 29 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+744 NMX0066613 l™ NMX0045443 746 NMX0084012
+Name: YOGITA SUBBA
+Father's Name : BUDDHA RAJ SUBBA 
+House Number: 32/2
+Age : 25 Gender: FEMALE
+Name: BUDDHA RAJ SUBBA
+Father's Name : LT. JIT BDR SUBBA 
+House Number: 32/2
+Age : 50 Gender: MALE
+Name: DIP SAGAR SUBBA
+Father's Name : BUDDHA RAJ SUBBA 
+House Number: 32/2
+Photo is Age : 23 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+747 NMX0054189 748 CBS0139865 749 CBS0085126
+Name: TASHI CHONZOR BHUTIA 
+Father's Name : SAWANG TSHERING 
+BHUTIA
+House Number: 33(1)
+Age : 27 Gender: MALE
+Name: NANDITABHUTIA
+Husband's Name : LAP TSHERING 
+BHUTIA
+House Number: 37/1
+Age: 48 Gender: FEMALE
+Name: KUNZANG. RANGDOL BHUTIA 
+Father's Name : NAKU. TSHERING 
+BHUTIA
+House Number: 37/1
+Age: 34 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+750 CBS0134098 751 NMX0086025 752 NMX0061127
+Name: KARMA. WANGYAL LEPCHA 
+Father's Name : KARMA. NINDA
+LEPCHA
+House Number: 41/1
+Age: 51 Gender: MALE
+Name: NORBU WANGCHUK LEPCHA 
+Father's Name : KARMA WANGYAL 
+LEPCHA
+House Number: 41/1
+Age : 25 Gender: MALE
+Name: NOPU ONGAY BHUTIA
+Father's Name : KARMA LOBSANG 
+BHUTIA
+House Number: 45(1)
+Age : 26 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+753 NMX0050732 754 CBS0074195 755 CBS0073981
+Name: MEENA DARNAL
+Father's Name : D.B DARNAL
+House Number: 46/2
+Age : 32 Gender: FEMALE
+Name: WANGCHUK LAMA
+Father's Name : NIMA LAMA
+House Number: 53(1)
+Age: 43 Gender: MALE
+Name: UGEN NAMDUL BHUTIA
+Father's Name : LT.CHUDUP BHUTIA 
+House Number: 60/1
+Photo is Age : 67 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+756 CBS0094987 757 CBS0094938 758 CBS0095083
+Name: PHUMCHUNG BHUTIA
+Husband's Name : UGEN NAMDUL 
+BHUTIA
+House Number: 60/1
+Age : 66 Gender: FEMALE
+Name: RINCHEN GYATSO BHUTIA 
+Father's Name : UGEN NAMDUL
+BHUTIA
+House Number: 60/1
+Age : 39 Gender: MALE
+Name: CHHOGEM BHUTIA
+Husband's Name : KAMAL SUBBA
+House Number: 61/4
+Photo is Age: 66 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+759 CBS0095075 760 CBS0124982 761 NMX0035717
+Name: KAMALSUBBA
+Father’s Name : JAGAT SUBBA
+House Number: 61/4
+Age : 67 Gender: MALE
+Name: TSHETEN DOLKAR SUBBA 
+Father's Name : KAMAL SUBBA
+House Number: 61/4
+Age : 36 Gender: FEMALE
+Name: SONAM CHODEN SUBBA 
+Father's Name : KAMAL SUBBA
+House Number: 61/4
+Photo is Age: 30 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+762 NMX0000505 763 CBS0097733 764 CBS0072322
+Name: NERMU LEPCHA
+Father's Name : KUNCHONG LEPCHA 
+House Number: 62/1
+Age : 35 Gender: FEMALE
+Name: SAI CHUNG RAI
+Father's Name : JAGAT BDR. RAI
+House Number: 62/1
+Age : 45 Gender: MALE
+Name: SHYAM KR. RAI
+Father's Name : JAGAT BDR. RAI
+House Number: 62/1
+Photo is Age: 44 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+735 CBS0053843 736 NMX0024091 737 NMX0091223
+Name: PANCHEN DORJEE SHERPA 
+Father's Name : DAWA SHERPA
+House Number: 160
+Age: 34 Gender: MALE
+Name: PALZOR DORJEE SHERPA 
+Father's Name : LT. DAWA SHERPA 
+House Number: 160
+Age : 31 Gender: MALE
+Name: CHANDRAKALARAI
+Father’s Name : KIRTI BAHADUR RAI 
+House Number: 16/5
+Photo is Age: 39 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+738 CBS0051540 739 CBS0053363 740 CBS0085845
+Name: ANU PRAVA MANDAL
+Father's Name : SOHAN MANDAL
+House Number: 221
+Age: 35 Gender: FEMALE
+Name: BIJAYMONDAL
+Father's Name : LT. SOHAN MONDAL 
+House Number: 221
+Age : 42 Gender: MALE
+Name: NIM TSETEN BHUTIA
+Father’s Name : DUBO TSHERING 
+BHUTIA
+House Number: 233/II
+Age : 39 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+741 FHY0111146 742 CBS0125633 743 NMX0040493
+Name: INDRAMAYARAI
+Mother’s Name : CHINKI RAI
+House Number: 235
+Age : 31 Gender: FEMALE
+Name: JUMKIT LEPCHA
+Husband's Name : TSHERING BHUTIA 
+House Number: 24/1
+Age : 33 Gender: FEMALE
+Name: RASHMIKASUBBA
+Father's Name : DHAN SUBBA
+House Number: 301
+Photo is Age: 29 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+744 NMX0066613 l™ NMX0045443 746 NMX0084012
+Name: YOGITA SUBBA
+Father's Name : BUDDHA RAJ SUBBA 
+House Number: 32/2
+Age : 25 Gender: FEMALE
+Name: BUDDHA RAJ SUBBA
+Father's Name : LT. JIT BDR SUBBA 
+House Number: 32/2
+Age : 50 Gender: MALE
+Name: DIP SAGAR SUBBA
+Father's Name : BUDDHA RAJ SUBBA 
+House Number: 32/2
+Photo is Age : 23 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+747 NMX0054189 748 CBS0139865 749 CBS0085126
+Name: TASHI CHONZOR BHUTIA 
+Father's Name : SAWANG TSHERING 
+BHUTIA
+House Number: 33(1)
+Age : 27 Gender: MALE
+Name: NANDITABHUTIA
+Husband's Name : LAP TSHERING 
+BHUTIA
+House Number: 37/1
+Age: 48 Gender: FEMALE
+Name: KUNZANG. RANGDOL BHUTIA 
+Father's Name : NAKU. TSHERING 
+BHUTIA
+House Number: 37/1
+Age: 34 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+750 CBS0134098 751 NMX0086025 752 NMX0061127
+Name: KARMA. WANGYAL LEPCHA 
+Father's Name : KARMA. NINDA
+LEPCHA
+House Number: 41/1
+Age: 51 Gender: MALE
+Name: NORBU WANGCHUK LEPCHA 
+Father's Name : KARMA WANGYAL 
+LEPCHA
+House Number: 41/1
+Age : 25 Gender: MALE
+Name: NOPU ONGAY BHUTIA
+Father's Name : KARMA LOBSANG 
+BHUTIA
+House Number: 45(1)
+Age : 26 Gender: MALE
+Photo is 
+Available
+Photo is 
+Available
+Photo is 
+Available
+753 NMX0050732 754 CBS0074195 755 CBS0073981
+Name: MEENA DARNAL
+Father's Name : D.B DARNAL
+House Number: 46/2
+Age : 32 Gender: FEMALE
+Name: WANGCHUK LAMA
+Father's Name : NIMA LAMA
+House Number: 53(1)
+Age: 43 Gender: MALE
+Name: UGEN NAMDUL BHUTIA
+Father's Name : LT.CHUDUP BHUTIA 
+House Number: 60/1
+Photo is Age : 67 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+756 CBS0094987 757 CBS0094938 758 CBS0095083
+Name: PHUMCHUNG BHUTIA
+Husband's Name : UGEN NAMDUL 
+BHUTIA
+House Number: 60/1
+Age : 66 Gender: FEMALE
+Name: RINCHEN GYATSO BHUTIA 
+Father's Name : UGEN NAMDUL
+BHUTIA
+House Number: 60/1
+Age : 39 Gender: MALE
+Name: CHHOGEM BHUTIA
+Husband's Name : KAMAL SUBBA
+House Number: 61/4
+Photo is Age: 66 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+759 CBS0095075 760 CBS0124982 761 NMX0035717
+Name: KAMALSUBBA
+Father’s Name : JAGAT SUBBA
+House Number: 61/4
+Age : 67 Gender: MALE
+Name: TSHETEN DOLKAR SUBBA 
+Father's Name : KAMAL SUBBA
+House Number: 61/4
+Age : 36 Gender: FEMALE
+Name: SONAM CHODEN SUBBA 
+Father's Name : KAMAL SUBBA
+House Number: 61/4
+Photo is Age: 30 Gender: FEMALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+762 NMX0000505 763 CBS0097733 764 CBS0072322
+Name: NERMU LEPCHA
+Father's Name : KUNCHONG LEPCHA 
+House Number: 62/1
+Age : 35 Gender: FEMALE
+Name: SAI CHUNG RAI
+Father's Name : JAGAT BDR. RAI
+House Number: 62/1
+Age : 45 Gender: MALE
+Name: SHYAM KR. RAI
+Father's Name : JAGAT BDR. RAI
+House Number: 62/1
+Photo is Age: 44 Gender: MALE
+Available
+Photo is 
+Available
+Photo is 
+Available
+7951
+Name: LHAKPA DOMA BHUTIA
+Husband’s Name : GIDEN GYATSO
+BHUTIA
+House Number: RTG/01/4410
+Age : 49 Gender: FEMALE
+|_______798 |
+Name: SONAM DUPKE NEGI 
+Father's Name : LATE R.C. NEGI 
+House Number: 1/15/12/30/1 
+Age : 61 Gender: MALE
+I 801]
+Name: SABAL NEGI 
+Father's Name : SONAM DUKPE NEGI 
+House Number: 01/15/012/30/01 
+Age : 29 Gender: MALE
+NMX0084020 796 NMX0001701 797 NMX0001222
+Photo is 
+Available
+FHY0154476
+Name: KARMA MINGYUR BHUTIA 
+Father's Name : TSHERING TOPGAY 
+BHUTIA
+House Number: 641/51 
+Age: 33 Gender: MALE
+799
+Photo is 
+Available
+NMX0063636
+Name: SONAM PALDEN LEPCHA 
+Father's Name : DAWA LEPCHA 
+House Number: 649/51 
+Age : 37 Gender: FEMALE
+800
+Photo is 
+Available
+FHY0177527
+Photo is 
+Available
+Name: SAURABH NEGI 
+Father's Name : SONAM DUPKE NEGI 
+House Number: 1/15/12/30/1 
+Age : 27 Gender: MALE
+NMX0063628
+Photo is 
+Available
+Name: BEENA RAI (NEGI) 
+Husband’s Name : SONAM DUKPE 
+NEGI
+House Number: 1/15/12/30/1 
+Age: 58 Gender: FEMALE
+Photo is 
+Available
+Photo is 
+Available
